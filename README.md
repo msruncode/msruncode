@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @msruncode. call me mike. 
 - 👀 I’m interested in python coding, machine learning, reinforced larning.
 - 🌱 I’m currently learning coding and looking foward to meeting people w/ similar interts. 
-- 💞️ I’m looking to collaborate on joint developement projects for application in finacial analysis.  
+- 💞️ I’m looking to collaborate on joint coding projects in the field of finacial analysis.  
 - 📫 How to reach me: ms.run.code [at] gmail com
 
 <!---
